@@ -1,2 +1,2 @@
 # Riul
-for study in yuhan college
+this repository is for study in yuhan college
